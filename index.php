@@ -3,6 +3,6 @@
     <title>Test Webapp - PHP</title>
   </head>
   <body>
-    <?php echo '<p>Hello World! Welone to our Generic Website.</p>'; ?>
+    <?php echo '<p>Hello World! Welcome to our Generic Website.</p>'; ?>
   </body>
 </html>
